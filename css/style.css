@@ -192,6 +192,16 @@ a:hover { color: var(--color-accent-dark); text-decoration: underline; }
 }
 
 /* ===== Content sections ===== */
+
+/* OSF logo icon (8-petal flower SVG) */
+.osf-icon {
+  width: 1.05rem;
+  height: 1.05rem;
+  display: block;
+}
+
+/* ===== Content sections ===== */
+
 .content-section {
   padding: 48px 24px;
 }
