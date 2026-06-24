@@ -1,7 +1,6 @@
 # Jihyun Lee, Ph.D. — Personal Academic Homepage
 
-A clean, responsive academic personal homepage inspired by the
-[NEURECA member page style](https://www.neureca.org/members/hyojin-park.html).
+Jihyun Lee의 academic personal homepage.
 Built with plain HTML, CSS, and a small amount of JavaScript — ready to host on **GitHub Pages**.
 
 ## 현재 완성된 기능 (Completed Features)
