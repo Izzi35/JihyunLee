@@ -195,8 +195,8 @@ a:hover { color: var(--color-accent-dark); text-decoration: underline; }
 
 /* OSF logo icon (8-petal flower SVG) */
 .osf-icon {
-  width: 1.05rem;
-  height: 1.05rem;
+  width: 1.15rem;
+  height: 1.15rem;
   display: block;
 }
 
