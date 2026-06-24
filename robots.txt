@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://izzi35.github.io/JihyunLee/sitemap.xml
